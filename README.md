@@ -1,4 +1,7 @@
 
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiecOEQJnyYB71LAa_H1qYtkaenRoSsHpY0Q&s)
+
+
 # Predictive Analytics for Heart Disease and Diabetes
 
 The aim of this project is machine learning prediction on risk factor hypertensive patients and Diabetics heart disease, syndrom. The model process is based on the analysis of patient data regarding health records, lifestyle and environmental variables to get accurate predictions required for preventive healthcare. This project involves a lot of data visualisation, hyperparameter tuning and even an interactive web interface where you can test against your own songs!
